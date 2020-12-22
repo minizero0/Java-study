@@ -16,5 +16,4 @@ public class ForExample2 {
 			System.out.println();
 		}
 	}
-
 }
