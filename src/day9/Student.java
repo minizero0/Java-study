@@ -17,7 +17,7 @@ public class Student {
 		i++;
 		System.out.println(i);
 		
-		studentName = "das";
+		
 		return serialNum;
 	}
 
